@@ -1,2 +1,2 @@
-# Comparing-Various-models-and-model-parameters-for-handwritten-digit-recognition-hardcoded-by-hand-
+# Comparing-various-models-and-model-parameters-for-handwritten-digit-recognition-hardcoded-by-hand
 This project investigates handwritten digit recognition on the MNIST dataset by implementing basic neural networks with manually hardcoded architectures and parameters. Different activation functions, cost functions, and loss functions are explored to understand their impact on training dynamics and recognition accuracy. The primary objective is research-oriented—focusing on gaining deeper insights into how fundamental design choices influence learning behavior, performance, and generalization in neural networks.
